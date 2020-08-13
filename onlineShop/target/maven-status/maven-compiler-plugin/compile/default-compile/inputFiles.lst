@@ -1,11 +1,14 @@
 C:\land\project\onlineShop\onlineShop\src\main\java\onlineShop\Application.java
 C:\land\project\onlineShop\onlineShop\src\main\java\onlineShop\model\BillingAddress.java
+C:\land\project\onlineShop\onlineShop\src\main\java\onlineShop\controller\RegistrationController.java
+C:\land\project\onlineShop\onlineShop\src\main\java\onlineShop\dao\CustomerDao.java
 C:\land\project\onlineShop\onlineShop\src\main\java\onlineShop\log\Logger.java
 C:\land\project\onlineShop\onlineShop\src\main\java\onlineShop\model\Customer.java
 C:\land\project\onlineShop\onlineShop\src\main\java\onlineShop\model\Authorities.java
 C:\land\project\onlineShop\onlineShop\src\main\java\onlineShop\model\Product.java
 C:\land\project\onlineShop\onlineShop\src\main\java\onlineShop\model\SalesOrder.java
 C:\land\project\onlineShop\onlineShop\src\main\java\onlineShop\model\ShippingAddress.java
+C:\land\project\onlineShop\onlineShop\src\main\java\onlineShop\service\CustomerService.java
 C:\land\project\onlineShop\onlineShop\src\main\java\onlineShop\model\CartItem.java
 C:\land\project\onlineShop\onlineShop\src\main\java\onlineShop\controller\HomePageController.java
 C:\land\project\onlineShop\onlineShop\src\main\java\onlineShop\log\PaymentAction.java

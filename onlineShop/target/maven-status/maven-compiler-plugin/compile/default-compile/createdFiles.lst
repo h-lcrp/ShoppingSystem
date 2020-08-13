@@ -1,4 +1,7 @@
+onlineShop\controller\RegistrationController.class
+onlineShop\dao\CustomerDao.class
 onlineShop\model\ShippingAddress.class
+onlineShop\service\CustomerService.class
 onlineShop\ApplicationConfig.class
 onlineShop\model\Product.class
 onlineShop\model\BillingAddress.class
@@ -10,5 +13,6 @@ onlineShop\model\SalesOrder.class
 onlineShop\Application.class
 onlineShop\log\PaymentAction.class
 onlineShop\log\ServerLogger.class
+onlineShop\controller\HomePageController.class
 onlineShop\model\Cart.class
 onlineShop\model\Customer.class
